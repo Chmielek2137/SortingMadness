@@ -1,3 +1,4 @@
 # SortingMadness
-Aplikacja służąca do sortowania zbiorów danych różnymi algorytmami. Ma pomóc użytkownikowi w ocenie, która metoda może się najlepiej sprawdzić w konkretnych przypadkach oraz, oczywiście, w uporządkowaniu danych. Dane liczbowe są sortowane standardowo, natomiast tekstowe - leksykograficznie. Należy zaimplementować co najmniej 6 różnych metod sortowania. Aplikacja będzie dostępna poprzez GUI, a także jako zdalne API, dzięki czemu można zintegrować z istniejącymi narzędziami.
-![asdasdasd](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrilliant.org%2Fwiki%2Fsorting-algorithms%2F&psig=AOvVaw10rACOqruq-9XGbqNzmJgH&ust=1638908332334000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDI9bz_z_QCFQAAAAAdAAAAABAE)
+**Aplikacja służąca do sortowania zbiorów danych różnymi algorytmami. Ma pomóc użytkownikowi w ocenie, która metoda może się najlepiej sprawdzić w konkretnych przypadkach oraz, oczywiście, w uporządkowaniu danych. Dane liczbowe są sortowane standardowo, natomiast tekstowe - leksykograficznie. Należy zaimplementować co najmniej 6 różnych metod sortowania. Aplikacja będzie dostępna poprzez GUI, a także jako zdalne API, dzięki czemu można zintegrować z istniejącymi narzędziami.**
+
+
